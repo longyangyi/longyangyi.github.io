@@ -1,6 +1,4 @@
-## 易龙杨的主页
-
-#### louisyi homepage
+## Louis Yi - homepage
 
 ---
 
@@ -10,6 +8,6 @@
 
 ---
 
-[谷歌镜像](https://go.weihanli.xyz/)
+[Google Image](https://go.weihanli.xyz/)
 
-[易哟喂](http://www.louisyi.top:443/)
+[yiyowei](http://www.louisyi.top:443/)
