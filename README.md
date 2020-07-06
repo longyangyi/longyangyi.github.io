@@ -1,4 +1,4 @@
-## Louis Yi - homepage
+# Louis Yi - homepage
 
 ---
 
