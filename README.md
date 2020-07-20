@@ -16,7 +16,7 @@
 - 大学生创新创业训练项目【省级】  基于区块链技术的医疗诊断数据交互平台  __负责人__  2019.5 - 2020.5
 
 ## 科研成果
-- Ying Zuobin, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019.
+- Zuobin Ying, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019.
 - 发明专利  一种基于区块链的车队ETC支付信息处理系统及方法；应作斌，__易龙杨__，杨钊. CN201911007647.6【实审阶段】
 - SCI在投  BEHT: Blockchain-based Efficient Highway Tolls Paradigm for Opportunistic Autonomous Vehicle Platoon.
 
