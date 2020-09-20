@@ -14,7 +14,6 @@
 
 ## 项目经历
 - 大学生创新创业训练项目【省级】  基于区块链技术的医疗诊断数据交互平台  __负责人__  2019.5 - 2020.5
-        我负责统筹规划、安卓开发、服务端程序开发、论文撰写、专利撰写。 科研成果：一篇EI会议论文、一篇SCI论文已发表，一篇发明专利进入实审阶段，一篇中文期刊论文暂未发表。 实物成果：单片机+心率采集装置，安卓app“智慧医疗”，linux Qt程序（模拟车联网结点）。 最终合格结项。
 
 ## 科研成果
 - Zuobin Ying, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019.
@@ -47,4 +46,4 @@
 
 ## 校内经历
 - 科大讯飞股份有限公司 · __实习生__  2019.9
-        “智能答题”的答案归类。处理“智能答题”程序的多种可能遇到的答案，将其进行归类，提高智能答题的准确性。
+“智能答题”的答案归类。处理“智能答题”程序的多种可能遇到的答案，将其进行归类，提高智能答题的准确性。
