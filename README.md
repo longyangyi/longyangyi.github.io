@@ -18,7 +18,7 @@
 ## 科研成果
 - Zuobin Ying, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019.
 - 发明专利  一种基于区块链的车队ETC支付信息处理系统及方法；应作斌，__易龙杨__，杨钊. CN201911007647.6【实审阶段】
-- SCI在投  BEHT: Blockchain-based Efficient Highway Tolls Paradigm for Opportunistic Autonomous Vehicle Platoon.
+- SCI期刊论文  BEHT: Blockchain-based Efficient Highway Tolls Paradigm for Opportunistic Autonomous Vehicle Platoon.
 
 ## 个人技能
 - 科研工具：Latex、Matlab、Word
@@ -45,6 +45,4 @@
         多次参加社团的周末【爱心支教】活动，负责两个小学生的学习辅导工作
 
 
-[Google Image](https://go.weihanli.xyz/)
-
-[yiyowei](http://www.louisyi.top:443/)
+[Baidu](https://www.baidu.com/)
