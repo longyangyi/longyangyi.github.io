@@ -16,9 +16,7 @@
 - 大学生创新创业训练项目【省级】  基于区块链技术的医疗诊断数据交互平台  __负责人__  2019.5 - 2020.5
 
 ## 科研成果
-- Zuobin Ying, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019.
-
-自主车队是解决智能交通系统中各种问题的最有希望的解决方案。 然而，如何有效地管理车辆的出入，并确保头车的利润仍然是一个悬而未决的问题。 在本论文中，我们通过实现以太坊提出了一种动态自主车队管理协议。想要加入和离开车队的车辆必须与头车进行通信，并且所有消息都将与智能合约规定的相应交易相关。 考虑到自主车队系统的时间效率，我们构建了混合链模型。公链提供认证记录。 所有车队消息通信记录都将存储在私有链上，并作为车队操作事件记录上传到公链。 评估结果和安全性分析表明，我们提出的方案既有效又安全，对于自主车队方案是可行的。
+- Zuobin Ying, Maode Ma, and __Longyang Yi__. "BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique." 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019. （自主车队是解决智能交通系统中各种问题的最有希望的解决方案。 然而，如何有效地管理车辆的出入，并确保头车的利润仍然是一个悬而未决的问题。 在本论文中，我们通过实现以太坊提出了一种动态自主车队管理协议。想要加入和离开车队的车辆必须与头车进行通信，并且所有消息都将与智能合约规定的相应交易相关。 考虑到自主车队系统的时间效率，我们构建了混合链模型。公链提供认证记录。 所有车队消息通信记录都将存储在私有链上，并作为车队操作事件记录上传到公链。 评估结果和安全性分析表明，我们提出的方案既有效又安全，对于自主车队方案是可行的。）
 
 - Ying Zuobin, __Longyang Yi__, and Maode Ma. "BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon." Wireless Communications and Mobile Computing 2020 (2020).
 - 发明专利  一种基于区块链的车队ETC支付信息处理系统及方法；应作斌，__易龙杨__，杨钊. CN201911007647.6【实审阶段】
