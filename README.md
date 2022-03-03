@@ -1,6 +1,4 @@
-# Longyang Yi
-
-## 易龙杨的主页
+# 易龙杨 Longyang Yi
 
 ---
 
