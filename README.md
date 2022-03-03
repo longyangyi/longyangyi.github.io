@@ -1,4 +1,4 @@
-# Louis Yi - homepage
+# Longyang Yi - homepage
 
 ## 易龙杨的主页
 
