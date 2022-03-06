@@ -28,11 +28,11 @@
 
 ## 科研成果
 
-1. Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（SCI）
+1. Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（EI）
 
    摘要：自主车队是解决智能交通系统中各种问题的最有希望的解决方案。 然而，如何有效地管理车辆的出入，并确保头车的利润仍然是一个悬而未决的问题。 在本论文中，我们通过实现以太坊提出了一种动态自主车队管理协议。想要加入和离开车队的车辆必须与头车进行通信，并且所有消息都将与智能合约规定的相应交易相关。 考虑到自主车队系统的时间效率，我们构建了混合链模型。公链提供认证记录。 所有车队消息通信记录都将存储在私有链上，并作为车队操作事件记录上传到公链。 评估结果和安全性分析表明，我们提出的方案既有效又安全，对于自主车队方案是可行的。
 
-2. Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020.（EI）
+2. Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020.（SCI）
 
 3. 应作斌,__易龙杨__,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（发明专利，实审阶段）
 
@@ -68,7 +68,7 @@
 
   多次参加社团的周末《爱心支教》活动，负责两个小学生的学习辅导工作
 
-## 校内经历
+## 实习经历
 
 - 科大讯飞股份有限公司，职务：__实习生__，2019.9
 
