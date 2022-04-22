@@ -77,7 +77,7 @@
 
 - 安徽大学唐仲英爱心社，文秘处（30余名部员），职责：__部长、志愿者__，2017.11 - 2020.4
 
-  主持社团文秘工作，负责摄影、文字处理、新闻稿撰写；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)（儿童医院）、防艾、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动、累计公益时长达100小时；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与
+  主持社团文秘工作，负责摄影、文字处理、新闻稿撰写；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、防艾、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动、累计公益时长达100小时；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与
 
 - 安徽大学春晖学社，爱心课堂，职责：__志愿者__，2017.10 - 2018.6
 
