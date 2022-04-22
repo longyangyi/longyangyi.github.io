@@ -61,6 +61,7 @@
 ## 荣誉奖项
 
 - 2022.01 获得IBM Blockchain Practitioner [Certificate](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
+- 2020.12 安徽大学学术科技奖（三等奖）
 - 2018.10 安徽省网络与分布式系统竞赛（优秀奖）
 - 2018.10 第三届全国书法、硬笔书法网络大赛（二等奖）
 - 2018.10 安徽大学学习优秀学金（三等奖）
