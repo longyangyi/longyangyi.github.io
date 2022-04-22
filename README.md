@@ -36,19 +36,21 @@
 
 ## 科研成果
 
-1. Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（EI）
+- Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（EI）
 
-2. Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（SCI Q4，CCF C）
+- Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（SCI Q4，CCF C）
 
-3. 应作斌,__易龙杨__,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（发明专利，实审阶段）
+- 应作斌,__易龙杨__,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（发明专利，实审阶段）
 
-4. 王伟,孙阳阳,段莉,__易龙杨__. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050A,2022-04-15.（发明专利，实审阶段）
+- 王伟,孙阳阳,段莉,__易龙杨__. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050A,2022-04-15.（发明专利，实审阶段）
 
-5. 基于深度学习的智能合约漏洞检测方法（重庆邮电大学学报自然科学版，已录用，待发表）
+- 一种基于跨链技术的隐私保护定制化车险竞价方法（发明专利，实审阶段）
 
-6. 《隐私计算》专著，参与撰写 __零知识证明__ 等内容，参与全书校验。
+- 基于深度学习的智能合约漏洞检测方法（重庆邮电大学学报自然科学版，已录用，待发表）
 
-7. 《可信工业数据空间系统架构1.0[白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/P020220125561909082218.pdf)》，中国信通院，参与编写 __区块链__ 存证溯源技术。
+- 《隐私计算》专著，参与撰写 __零知识证明__ 等内容，参与全书校验。
+
+- 《可信工业数据空间系统架构1.0[白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/P020220125561909082218.pdf)》，中国信通院，参与编写 __区块链__ 存证溯源技术。
 
 
 ## 个人技能
