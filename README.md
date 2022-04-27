@@ -56,6 +56,8 @@
 
 - Sun Y, __Yi L__, et al. A Decentralized Cross-Chain Service Protocol Based on Notary Schemes and Hash-Locking.（IEEE SCC在投）
 
+- AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs.（KDD在投）
+
 
 ## 个人技能
 
