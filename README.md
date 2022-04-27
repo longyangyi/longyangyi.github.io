@@ -52,9 +52,9 @@
 
 - 《可信工业数据空间系统架构1.0[白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/P020220125561909082218.pdf)》，中国信通院，参与编写 __区块链__ 存证溯源技术。
 
-- __Yi L_ Wei W,_, et al. A cross-chain based premium competition scheme with privacy preservation for usage-based insurance.（IEEE TETC在投）
+- __Yi L__, Wang W, et al. A cross-chain based premium competition scheme with privacy preservation for usage-based insurance.（IEEE TETC在投）
 
-- Yang S, __Yi L__, et al. A Decentralized Cross-Chain Service Protocol Based on Notary Schemes and Hash-Locking.（IEEE SCC在投）
+- Sun Y, __Yi L__, et al. A Decentralized Cross-Chain Service Protocol Based on Notary Schemes and Hash-Locking.（IEEE SCC在投）
 
 
 ## 个人技能
