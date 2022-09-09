@@ -29,63 +29,118 @@
 
 - __名校考研联盟__  《数据结构》讲师  2021.04-2021.12
 
-## 项目经历
-
-- 基于区块链技术的医疗诊断数据交互平台，大学生创新创业训练项目（省级），__负责人__，2019.5 - 2020.5
-
-  项目简介：编写安卓客户端以使用蓝牙控制单片机及可穿戴设备去测量体征数据，实时绘制数据折线图；并通过TCP连接上传至Java服务器中的Mysql数据库、将Hash值上传至超级账本 __区块链__，自行授予个人数据使用权限给指定诊疗医师。
-
-  个人职责：1. 实现Java服务器和安卓客户端的主要功能模块，包括TCP网络通信、界面UI、日志记录、区块链交互模块。2. 撰写文档，申报项目并结项。
-
-- [WebIM](https://github.com/longyangyi/WebIM)，__字节跳动前端课程__ 项目，负责编写全部代码、参与设计系统，2021.10 - 2021.12
-
-  用户注册：注册用户账号、密码、昵称；用户登录：登录成功进入系统，失败则提示错误信息；添加好友：添加好友账号，加入好友列表；私聊功能：用户进入系统后有好友列表，可以点击私聊发送图片、文字信息。
-  
-  后端：nodejs+Express+MySQL；前端：html+css+JavaScript
-
-- 针对跨链体系的攻击及其防护方法，国家重点研发计划，参与，2021.1至今
-
-
-## 科研成果
-
-- Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（EI）
-
-- Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（SCI Q4，CCF C）
-
-- 应作斌,__易龙杨__,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（发明专利，实审阶段）
-
-- 王伟,孙阳阳,段莉,__易龙杨__. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050A,2022-04-15.（发明专利，实审阶段）
-
-- 王伟,__易龙杨__,孙阳阳,段莉. 一种基于跨链技术的隐私保护定制化车险竞价方法（发明专利，已受理）
-
-- 基于深度学习的智能合约漏洞检测方法（重庆邮电大学学报自然科学版，已录用，待发表）
-
-- 《隐私计算》专著，参与撰写 __零知识证明__ 等内容，参与全书校验。
-
-- 《可信工业数据空间系统架构1.0[白皮书](http://www.caict.ac.cn/kxyj/qwfb/ztbg/202201/P020220125561909082218.pdf)》，中国信通院，参与编写 __区块链__ 存证溯源技术。
-
-- __Yi L__, Wang W, et al. A cross-chain based premium competition scheme with privacy preservation for usage-based insurance.（IEEE TETC在投）
-
-- Sun Y, __Yi L__, et al. A Decentralized Cross-Chain Service Protocol Based on Notary Schemes and Hash-Locking.（IEEE SCC在投）
-
-- AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs.（KDD在投）
-
 
 ## 个人技能
 
-- 科研工具：Latex、Matlab、Word
-- 编程语言：C语言、C++、Java、Python、Solidity、Golang、nodejs、html+css+JavaScript
-- 编程框架/工具：Linux、QT、安卓开发、MySQL、区块链开发（Ethereum、Fabric、WeCross跨链）
-- 证书：英语六级CET-6（511分）、计算机三级（信息安全）
+- 安全隐私：精通区块链、公钥密码，掌握同态加密、零知识证明、身份加密、属性加密，了解漏洞检测
+
+- 编程开发：掌握Java、C，熟练使用Spring、Spring MVC、MyBatis、Spring Boot、MySQL，熟悉Python、C++
+
+- 技能证书：英语CET-6（511分）、计算机三级（信息安全）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
+
+## 研究工作
+
+- 定制化车险跨链服务平台 独立完成 （隶属于国家重点研发计划课题）2021.11-2022.06
+
+  研究内容：设计隐私保护的定制化车险评估方案，保护车辆位置防追踪，支持保险商评估驾驶风险，构建跨链数据交互服务平台。
+
+  个人职责：设计并实现隐私保护的同态数据聚合算法，实现跨链平台应用。
+
+  应用技术：同态数据聚合、WeCross跨链平台、Java。
+
+- 可信隐私保护跨链交易平台 独立完成 （隶属于国家重点研发计划课题）2022.05-2022.08
+
+  研究内容：联盟成员为跨链交易生成聚合签名以证明可信，中继链验证身份信息与聚合签名并存证，属性加密保护跨链数据隐私。
+
+  个人职责：设计跨链交易流程，完善可信与隐私保护需求，实现跨链平台。
+
+  应用技术：以太坊、Fabric、聚合签名、属性加密。
+
+- 以太坊智能合约漏洞检测平台 （隶属于国家自然科学基金联合基金重点支持项目）2021.07-2021.10
+
+  研究内容：构建深度学习模型以学习合约操作码序列的特征，根据漏洞类型进行分类，使用训练完成的模型去检测智能合约漏洞。
+
+  个人职责：采集存在漏洞的智能合约源码，编译解析为操作码序列，训练LSTM模型。
+
+  应用技术：长序列学习、以太坊、Keras。
+
+- HDFS异常日志检测模型2021.11-2022.02 
+
+  研究内容：构建深度学习模型以学习HDFS无异常日志序列的特征，输入子序列预测下一事件候选值，对比实际值判断是否异常。
+
+  个人职责：解析HDFS日志，制作无异常训练集、异常测试集，训练LSTM模型。
+
+  应用技术：长序列学习、HDFS、PyTorch。
+
+
+
+## 项目经历
+
+- 《任务清单》微信小程序 独立完成 访问量千余人	2021.06维护至今
+
+  项目简介：维护用户任务列表，包括添加任务、标记完成状态、纪念日、实时天气等功能，附加成语补字游戏、每日一句。
+
+  个人职责：设计功能、编写全部代码。
+
+  前端：微信开发者工具、Wxml、Wxss、JavaScript。
+
+  后端：小程序云开发、云数据库。
+
+- 《Web IM》字节跳动前端课程项目 负责人	2021.10-2021.12
+
+  项目简介：网页端即时通讯工具，包括用户注册、登录、添加好友和聊天功能，可发送图片、文字消息。
+
+  个人职责：参与设计系统、编写全部代码。
+
+  前端：Html、Css、JavaScript、WebSocket、jQuery。
+
+  后端：Spring、Spring MVC、MyBatis。
+
+- 《Yi Blog》在线博客系统 独立完成	2022.06-2022.07
+
+  项目简介：网页web端在线博客系统，包括注册、登录、发布博客、回复评论等功能。
+
+  个人职责：设计系统、编写全部代码。
+
+  前端：Html、Css、JavaScript、Jsp。
+
+  后端：Spring、Spring MVC、MyBatis。
+
+
+## 科研成果（区块链、隐私保护、密码学）
+
+1. Yi L, Sun Y, Wang B, et al. CCUBI: A Cross-chain Based Premium Competition Scheme with Privacy Preservation for Usage-Based Insurance[J]. International Journal of Intelligent Systems, 2022.（SCI一区，一作）
+
+2. Sun Y, Yi L, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（EI）
+
+3. Ying Z, Yi L, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（SCI）
+
+4. Ying Z, Ma M, Yi L. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（EI）
+
+5. 易龙杨,等. 基于深度学习的智能合约漏洞检测方法[J/OL].重庆邮电大学学报(自然科学版).（中文核心，已录用）
+
+6. 王伟,易龙杨,段莉,孙阳阳. 一种基于跨链技术的隐私保护定制化车险竞价方法[P]. 北京市：CN114841818A,2022-08-02.（发明专利）
+
+7. 王伟,孙阳阳,段莉,易龙杨. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050A,2022-04-15.（发明专利）
+
+8. 应作斌,易龙杨,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（发明专利）
+
+9. 王伟,吴迪,易龙杨,段莉. 基于比特币与Fabric的半中心化公证人跨链方法、系统与装置.（发明专利，已受理）
+
+10. 王伟,易龙杨,等. 灵活可扩展的联邦学习系统.（软件著作权，已申请）
+
+11. 王伟,易龙杨,等.《隐私计算》学术专著，撰写零知识证明、区块链等内容，并参与全书校验。
+
+12. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs.（BigData在投）
+
 
 ## 荣誉奖项
 
-- 2022.01 获得IBM Blockchain Practitioner [Certificate](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
 - 2021.11 北京交通大学硕士学业奖学金（二等奖）
 - 2020.12 安徽大学学术科技奖（三等奖）
-- 2019.10 安徽大学暑期社会实践积极分子
+- 2019.10 安徽大学“暑期支教”社会实践积极分子
 - 2018.10 安徽省网络与分布式系统竞赛（优秀奖）
-- 2018.10 第三届全国书法、硬笔书法网络大赛（二等奖）
+- 2018.10 第三届全国书法大赛（二等奖）
 - 2018.10 安徽大学学习优秀学金（三等奖）
 - 2018.03 安徽大学枣园学生书法、绘画大赛（三等奖）
 - 2017.12 安徽大学社政院书法大赛（三等奖）
