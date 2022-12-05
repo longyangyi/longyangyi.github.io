@@ -1,6 +1,7 @@
 # 易龙杨 Longyang Yi
 
 ---
+[本主页](https://longyangyi.github.io/)
 
 ## 联系方式
 
