@@ -48,15 +48,15 @@
 
 1. __Yi L__, Sun Y, Wang B, et al. CCUBI: A Cross-chain Based Premium Competition Scheme with Privacy Preservation for Usage-Based Insurance[J]. International Journal of Intelligent Systems, 2022.（__SCI一区，一作__）
 
-2. Sun Y, __Yi L__, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（__EI__）
+2. Sun Y, __Yi L__, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（__EI，CCF C__）
 
-3. Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（__SCI__）
+3. Ying Z, __Yi L__, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（__SCI，CCF C__）
 
 4. Ying Z, Ma M, __Yi L__. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（__EI__）
 
-5. Orsini H, Bao H, Zhou Y, Xu X, __Yi L__, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]//2022 IEEE International Conference on Big Data.（__EI__）
+5. Orsini H, Bao H, Zhou Y, Xu X, __Yi L__, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]//2022 IEEE International Conference on Big Data.（__EI，CCF C__）
 
-6. 张铮,张星娜,吕卓,__易龙杨__等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（__中文核心__）
+6. 张铮,张星娜,吕卓,**易龙杨**等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（__中文核心__）
 
 - 专利
 
@@ -76,13 +76,13 @@
 
 - 其他
 
-王伟,李浥东,刘吉强.《隐私计算》学术专著，撰写零知识证明、区块链等内容共20余页，并参与全书校验。
+1. 王伟,李浥东,刘吉强.《隐私计算》学术专著，撰写零知识证明、区块链等内容共20余页，并参与全书校验。
 
-参与制定两项数据隐私国家标准。
+2. 参与制定两项数据隐私国家标准。
 
-参与《可信工业数据空间系统架构1.0白皮书》。
+3. 参与《可信工业数据空间系统架构1.0白皮书》。
 
-参与申报并结项国家重点研发、国家自然科学基金项目。
+4. 参与申报并结项国家重点研发、国家自然科学基金项目。
 
 
 
