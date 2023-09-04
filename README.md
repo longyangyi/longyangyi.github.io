@@ -45,22 +45,22 @@
 
 ## 论文
 
-1. **Yi L**, Sun Y, Wang B, et al. CCUBI: A Cross-chain Based Premium Competition Scheme with Privacy Preservation for Usage-Based Insurance[J]. International Journal of Intelligent Systems, 2022.（**SCI一区，一作**）
+1. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI一区，一作**）
 
 2. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**EI，CCF C**）
 
-3. Ying Z, **Yi L**, Ma M. BEHT: Blockchain-Based Efficient Highway Toll Paradigm for Opportunistic Autonomous Vehicle Platoon[J]. Wireless Communications and Mobile Computing, 2020.（**SCI，CCF C**）
+3. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C**）
 
 4. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**）
 
-5. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]//2022 IEEE International Conference on Big Data.（**EI，CCF C**）
+5. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]//2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1060-1069.（**EI，CCF C**）
 
 6. 张铮,张星娜,吕卓,**易龙杨**等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（**中文核心**）
 
 
 ## 专利
 
-1. 王伟,**易龙杨**,段莉等. 一种基于跨链技术的定制化车险竞价隐私保护方法[P]. 北京市：CN114841818B,2023-06-16.（**已授权**）
+1. 王伟,**易龙杨**,段莉,孙阳阳. 一种基于跨链技术的定制化车险竞价隐私保护方法[P]. 北京市：CN114841818B,2023-06-16.（**已授权**）
 
 2. 王伟,**易龙杨**,沈蒙等. 一种基于零知识证明的隐私保护跨链交易验证方法[P]. 北京市：CN116562874A,2023-08-08.
 
@@ -68,11 +68,11 @@
 
 4. 王伟,孙阳阳,段莉,**易龙杨**. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050B,2022-11-11.（**已授权**）
 
-5. 王伟,吴迪,**易龙杨**等. 半中心化公证人跨链方法、系统与装置[P]. 北京市：CN115049393B,2023-07-18.（**已授权**）
+5. 王伟,吴迪,**易龙杨**,段莉. 半中心化公证人跨链方法、系统与装置[P]. 北京市：CN115049393B,2023-07-18.（**已授权**）
 
 6. 王伟,王俊勇,刘煜昊,周英楠,张大伟,段莉,李超,陶耀东,李浥东,**易龙杨**. 一种面向无人机系统的配置缺陷分析方法和系统[P]. 北京市：CN116520882A,2023-08-01.
 
-7. 王伟,**易龙杨**,等. 灵活可扩展的联邦学习系统.（**软件著作权**，已申请）
+7. 王伟,张军,**易龙杨**,等. 灵活可扩展的联邦学习系统.（**软件著作权**：2023SR0880060，已受理）
 
 
 ## 其他
