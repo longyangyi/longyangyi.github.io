@@ -162,13 +162,13 @@
 
   参加安徽省阜南县王化中心学校[暑期支教](https://mp.weixin.qq.com/s/bjRsgUkEp_9LkWBuDaWTPg)。
 
-- 安徽大学书画协会，职责：副社长，2018.06-2019.06
+- 安徽大学**书画协会**，职责：副社长，2018.06-2019.06
 
   撰写春联并赠送在校生与职工，走访当地书画名家，为校园活动题写书法宣传幅。
 
 - 安徽大学唐仲英**爱心社**，文秘处，职责：部长，2017.11-2020.04
 
-  主持社团文秘工作，负责摄影、文字处理、新闻稿撰写；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、防艾、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动、累计公益时长达100小时；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与。
+  主持社团文秘工作，负责摄影与新闻稿；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动、累计公益时长达100小时；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与。
 
 - 安徽大学春晖**学社**，爱心课堂，职责：志愿者，2017.10-2018.06
 
