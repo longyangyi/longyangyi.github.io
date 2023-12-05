@@ -166,7 +166,7 @@
 
   撰写春联并赠送在校生与职工，走访当地书画名家，为校园活动题写书法宣传幅。
 
-- 安徽大学唐仲英**爱心社**，文秘处，职责：部长，2017.11-2020.04
+- 安徽大学唐仲英**爱心社**，职责：文秘处部长，2017.11-2020.04
 
   主持社团文秘工作，负责摄影与新闻稿；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动、累计公益时长达100小时；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与。
 
