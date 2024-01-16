@@ -6,6 +6,7 @@
 
 - Email：longyangyi@zju.edu.cn / longyangyi@outlook.com
 - 电话/微信：+86 13739220456
+- [Google Scholar](https://scholar.google.com/citations?user=dY8d7bsAAAAJ) [CNKI知网](https://kns.cnki.net/kcms2/author/detail?v=_NV5_o307Bz72MKmHU2ZZYi57X2RJMn01bg0lXE3qYF_6WtZ8yVMn2aBpGIHq7TB_ixM80KuZaGpshRe-VMPXoSGF1w-2VnAozopO6aQWVMof8R2VFZpqU_vmGszVZq8) [Github](https://github.com/longyangyi) [CSDN](https://blog.csdn.net/yilongyoung)
 
 # 教育经历
 
@@ -53,7 +54,7 @@
 
 2. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**EI，CCF C**）
 
-3. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C**）
+3. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C，一作**）
 
 4. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**）
 
@@ -64,11 +65,11 @@
 
 ## 专利
 
-1. 王伟,**易龙杨**,沈蒙,蒋芃,祝烈煌,张大伟,段莉,孙阳阳,王斌,李超,周英楠,王俊勇. 一种基于零知识证明的隐私保护跨链交易验证方法[P]. 北京市：CN116562874A,2023-08-08.（**已授权**）
+1. 王伟,**易龙杨**,沈蒙,蒋芃,祝烈煌,张大伟,段莉,孙阳阳,王斌,李超,周英楠,王俊勇. 一种基于零知识证明的隐私保护跨链交易验证方法[P]. 北京市：CN116562874B,2024-01-02.（**已授权，一作**）
 
-2. 王伟,**易龙杨**,段莉,孙阳阳. 一种基于跨链技术的定制化车险竞价隐私保护方法[P]. 北京市：CN114841818B,2023-06-16.（**已授权**）
+2. 王伟,**易龙杨**,段莉,孙阳阳. 一种基于跨链技术的定制化车险竞价隐私保护方法[P]. 北京市：CN114841818B,2023-06-16.（**已授权，一作**）
 
-3. 应作斌,**易龙杨**,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.
+3. 应作斌,**易龙杨**,杨钊. 一种基于区块链的车队ETC支付信息处理系统及方法[P]. 安徽省：CN110782348A,2020-02-11.（**一作**）
 
 4. 王伟,孙阳阳,段莉,**易龙杨**. 基于公证人和哈希锁定的去中心化跨链协议通信方法[P]. 北京市：CN114363050B,2022-11-11.（**已授权**）
 
@@ -168,7 +169,7 @@
 
 - 安徽大学唐仲英**爱心社**，职责：文秘处部长，2017.11-2020.04
 
-  主持社团文秘工作，负责摄影与新闻稿；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与。
+  主持社团文秘工作，负责审核摄影与新闻稿；参加[思语](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)儿童医院、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动；负责举办活动“[正能量随手拍](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)”获百余人参与。
 
 - 安徽大学**机器人足球**实验室，职责：竞走机器人团队成员，2017.9-2017.12
 
@@ -176,4 +177,4 @@
 
 
 
-（更新时间：2023.12）
+（更新时间：2024.01）
