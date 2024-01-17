@@ -6,7 +6,7 @@
 
 - Email：longyangyi@zju.edu.cn / longyangyi@outlook.com
 - 电话/微信：+86 13739220456
-- [Google Scholar](https://scholar.google.com/citations?user=dY8d7bsAAAAJ) [CNKI知网](https://kns.cnki.net/kcms2/author/detail?v=_NV5_o307Bz72MKmHU2ZZYi57X2RJMn01bg0lXE3qYF_6WtZ8yVMn2aBpGIHq7TB_ixM80KuZaGpshRe-VMPXoSGF1w-2VnAozopO6aQWVMof8R2VFZpqU_vmGszVZq8) [Github](https://github.com/longyangyi) [CSDN](https://blog.csdn.net/yilongyoung)
+- [谷歌学术](https://scholar.google.com/citations?user=dY8d7bsAAAAJ) [知网](https://kns.cnki.net/kcms2/author/detail?v=_NV5_o307Bz72MKmHU2ZZYi57X2RJMn01bg0lXE3qYF_6WtZ8yVMn2aBpGIHq7TB_ixM80KuZaGpshRe-VMPXoSGF1w-2VnAozopO6aQWVMof8R2VFZpqU_vmGszVZq8) [Github](https://github.com/longyangyi) [CSDN](https://blog.csdn.net/yilongyoung)
 
 # 教育经历
 
