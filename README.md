@@ -24,11 +24,11 @@
 
 - **工信部电子一所**，国家工业信息安全发展研究中心，新兴技术**研究员助理**，2022.09-2022.12
 
-  编写项目申报指南，跟踪国内外新兴技术，对区块链、隐私计算、数据库等领域开展技术创新和产业发展趋势研究工作。
+  编写区块链项目申报指南，调研国内外新兴技术，对区块链、隐私计算、数据库等领域开展技术创新和产业发展趋势研究工作。
 
 - **蚂蚁集团研究院**，第三届“数字金融青年领军者计划”，**研究助理**，2022.08-2022.09
 
-  基于自研隐私计算Python库，实现隐私保护的疫情期间用户理财数据分析；研究区块链及隐私计算在数字金融领域的应用，撰写研究报告并做学术汇报，获得结业证书。
+  基于自研隐私计算Python库，实现隐私保护的疫情期间用户理财数据分析；撰写研究报告并做学术汇报，获得结业证书。
 
 - **名校考研联盟**，《数据结构》兼职讲师，2021.04-2021.12
 
@@ -52,9 +52,9 @@
 
 1. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI一区，一作**）
 
-2. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**EI，CCF C**）
+2. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C，一作**）
 
-3. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C，一作**）
+3. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**EI，CCF C**）
 
 4. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C].2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**）
 
@@ -85,40 +85,41 @@
 - 参与编写**学术专著**：王伟，李浥东，刘吉强. 隐私保护计算[M]. 北京：人民邮电出版社，2023.
 
   撰写零知识证明、区块链等内容共20余页，并参与全书校验。
+  
 - 参与制定**国家标准**：《智慧城市 突发公共卫生事件应急管理平台通用要求》。
-- 参与《可信工业数据空间系统架构1.0**白皮书**》。
+- 参与信通院**白皮书**《可信工业数据空间系统架构1.0》。
 - 参与申报并结项国家重点研发、国家自然科学基金项目。
 
 
 
 # 研究工作
 
-1. 定制化车险**跨链服务**平台，独立完成，（国家重点研发计划课题子任务），2021.11-2022.06
-- 研究内容：设计隐私保护的定制化车险评估方案，保护车辆位置防追踪，支持保险商评估驾驶风险，构建跨链数据交互服务平台。
+1. 可信隐私保护**跨链交易**平台，独立完成，2022.05-2022.08
+- 研究内容：为跨链交易生成可信的零知识证明，中继链监管者无需查看隐私数据即可验证身份信息与交易合规性。
+- 个人职责：设计跨链交易流程，完善可信与隐私保护需求，编码实现跨链平台。
+- 应用技术：零知识证明、Fabric区块链。
+
+2. 定制化车险**跨链服务**平台，独立完成，（国家重点研发计划课题子任务），2021.11-2022.06
+- 研究内容：设计隐私保护的定制化车险跨链评估方案，保护车辆位置防追踪，并支持保险商评估驾驶风险。
 - 个人职责：设计并实现隐私保护的同态数据聚合算法，实现跨链平台应用。
 - 应用技术：同态数据聚合、WeCross跨链平台、Java。
 
-2. 可信隐私保护**跨链交易**平台，独立完成，2022.05-2022.08
-- 研究内容：联盟成员为跨链交易生成聚合签名以证明可信，中继链验证身份信息与聚合签名并存证，属性加密保护跨链数据隐私。
-- 个人职责：设计跨链交易流程，完善可信与隐私保护需求，实现跨链平台。
-- 应用技术：以太坊、Fabric、聚合签名、属性加密。
-
-3. 以太坊智能合约**漏洞检测**平台，（国家自然科学基金重点支持项目），2021.07-2021.10
-- 研究内容：构建深度学习模型以学习合约操作码序列的特征，根据漏洞类型进行分类，使用训练完成的模型去检测智能合约漏洞。
-- 个人职责：采集存在漏洞的智能合约源码，编译解析为操作码序列，训练LSTM模型。
-- 应用技术：长序列学习、以太坊、Keras。
-
-4. HDFS**异常日志检测**模型，2021.11-2022.02 
+3. HDFS**异常日志检测**模型，2021.11-2022.02 
 - 研究内容：构建深度学习模型以学习HDFS无异常日志序列的特征，输入子序列预测下一事件候选值，对比实际值判断是否异常。
 - 个人职责：解析HDFS日志，制作无异常训练集、异常测试集，训练LSTM模型。
 - 应用技术：长序列学习、HDFS、PyTorch。
+
+4. 以太坊智能合约**漏洞检测**平台，（国家自然科学基金重点支持项目），2021.07-2021.10
+- 研究内容：构建深度学习模型以学习合约操作码序列的特征，根据漏洞类型进行分类，使用分类器去检测智能合约漏洞。
+- 个人职责：采集存在漏洞的智能合约源码，编译解析为操作码序列，训练LSTM模型。
+- 应用技术：长序列学习、以太坊、Keras。
 
 
 
 
 # 项目经历
 
-1. 灵活可扩展的**联邦学习系统**，（中国铁道科学研究院合作项目），2022.05-2023.06 
+1. 灵活可扩展的**联邦学习系统**，（中国铁道科学研究院合作项目，已落地），2022.05-2023.06 
 - 项目简介：该联邦学习系统提供多种模型与数据集，供用户定制分布式机器学习任务，支持多节点灵活部署。
 - 个人职责：负责系统后端，实现模型参数聚合与分发，处理训练过程发送给前端实时展示。
 - 后端：Spring Boot、MyBatis、MySQL。
@@ -135,11 +136,11 @@
 - 前端：Html、Css、JavaScript、WebSocket、jQuery。
 - 后端：Spring、Spring MVC、MyBatis。
 
-4. 基于区块链技术的医疗诊断数据交互平台，校级创新项目，负责人，2019.05-2020.05
+4. 区块链智慧医疗**APP**，校级创新项目，负责人，2019.05-2020.05
 - 项目简介：用户操作安卓APP，利用蓝牙控制单片机与可穿戴设备，测量体征数据并展示折线图，体征数据上传至云端区块链诊疗平台。
 - 个人职责：实现Java服务器，处理用户登录、数据上传下载、数据库操作、区块链交互等模块；实现安卓APP，调用蓝牙模块，预处理体征数据并展示折线图。
 - 前端：安卓APP、XML布局。
-- 后端：Java Socket、JDBC、Fabric区块链API。
+- 后端：Java Socket、JDBC、Fabric区块链。
 
 
 
