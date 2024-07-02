@@ -43,7 +43,7 @@
 
 - **编程开发**：掌握Java、C、Python，熟练使用Spring、Spring MVC、MyBatis、Spring Boot，熟悉C++
 
-- **技能证书**：英语CET-6（511分）、计算机三级（信息安全）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
+- **技能证书**：英语六级CET-6（511分）、计算机三级（信息安全）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
 
 
 # 科研成果
