@@ -185,6 +185,4 @@
 <a href="https://info.flagcounter.com/YQ8G"><img src="https://s01.flagcounter.com/mini/YQ8G/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 </p>
 
-[URL=https://info.flagcounter.com/YQ8G][IMG]https://s01.flagcounter.com/mini/YQ8G/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/[/IMG][/URL]
-
 （更新时间：2024.06）
