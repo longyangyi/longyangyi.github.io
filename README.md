@@ -168,18 +168,18 @@
 
 - 阜南县**暑期支教**，职责：书法老师，2019.07
 
-  参加安徽省阜南县王化中心学校暑期支教。
+  参加安徽省阜南县王化中心学校暑期支教，负责四十余人书法班级教学。
 
 - 安徽大学**书画协会**，职责：书法会长，2018.06-2019.06
 
-  书写春联、扇面等作品以赠送在校师生，走访当地书画名家，为校园活动题写书法宣传幅。
+  书写春联、扇面等作品用于赠送在校师生，书写校内大会宣传标语，走访书画名家进行文化交流。
 
 - 安徽大学唐仲英**爱心社**，职责：文秘处部长，2017.11-2020.04
 
-  主持社团文秘工作，负责审核摄影与新闻稿；参加[儿童医院](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动；负责举办大型[社团活动](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)获百余人参与。
+  主持社团文秘工作，负责与国际基金会交互新闻稿件；参加[儿童医院](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动；负责举办大型[社团活动](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)获百余人参与。
 
 - 安徽大学**机器人足球**实验室，职责：竞走机器人团队成员，2017.9-2017.12
 
-  编写Arduino单片机的C语言代码，实现了交叉足机器人的稳健行走与翻身。
+  编写Arduino单片机的C语言代码，负责实现机器人行走与翻身的模块。
 
 （更新时间：2024.12）
