@@ -50,7 +50,7 @@
 
 ## 论文
 
-1. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Regulatable and Privacy-Preserving Blockchain via Anomaly Detection on Private Transactions[J]. IEEE Transactions on Information Forensics and Security, 2025.
+1. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Regulatable and Privacy-Preserving Blockchain via Anomaly Detection on Private Transactions[J]. IEEE Transactions on Information Forensics and Security, 2025.（**CCF A，SCI一区，一作**，隐私交易监管）
 
 2. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI一区，一作**，车联网隐私保护）
 
