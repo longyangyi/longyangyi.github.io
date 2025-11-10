@@ -54,7 +54,7 @@
 
 2. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI一区，一作**，车联网隐私保护）
 
-3. **Yi L**, Liu J, Wan Z. Blockchain-Based Secure and Composable Model for Semi-Honest Privacy-Preserving Computation[C]. 2025 IEEE International Conference on Cyber Resilience and Endogenous Safety & Security (ICRESS). IEEE, 2025. （**EI，一作**，区块链赋能隐私计算）
+3. **Yi L**, Liu J, Wan Z. Blockchain-Based Secure and Composable Model for Semi-Honest Privacy-Preserving Computation[C]. 2025 IEEE International Conference on Cyber Resilience and Endogenous Safety & Security (CRESS). IEEE, 2025. （**EI，一作**，区块链赋能隐私计算）
 
 4. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C，一作**，车联网数字资产）
 
