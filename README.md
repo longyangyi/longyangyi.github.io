@@ -8,6 +8,8 @@
 - 电话/微信：+86 13739220456
 - [谷歌学术](https://scholar.google.com/citations?user=dY8d7bsAAAAJ) [知网](https://kns.cnki.net/kcms2/author/detail?v=oslmGXurZ-oEfzyBaGnFlSnAsYllNSY7NhVZqpATLG59fJFi18npnwYhiTOwJ-Mg3kOfue0w2UF9YkHI2e7St4-QJYMDRtfceeUpO_NEWBc=&uniplatform=NZKPT&flag=copy) [Github](https://github.com/longyangyi) [CSDN](https://blog.csdn.net/yilongyoung)
 
+---
+
 # 教育经历
 
 - **浙江大学**（985双一流），计算机科学与技术学院/区块链与数据安全全国重点实验室，网络与信息安全，**博士生**，2023.09至今
@@ -17,6 +19,8 @@
 - **北京交通大学**（211双一流），计算机与信息技术学院，计算机技术，**硕士**，导师：[王伟](https://faculty.bjtu.edu.cn/8493/)，2021.09-2023.06
   
 - **安徽大学**（211双一流），计算机科学与技术学院，信息安全，**本科**，2017.09-2021.06
+
+---
 
 
 # 科研成果
@@ -76,6 +80,8 @@
 
 
 
+---
+
 
 # 项目经历
 
@@ -101,6 +107,8 @@
 - 个人职责：主导开发后端，实现模型参数聚合与分发
 
 
+---
+
 
 # 实习经历
 
@@ -119,6 +127,8 @@
   处理模型训练数据集，对采集的原始文本数据集进行预处理与标注，去除标签并整理特殊字符，处理结果整理入库
 
 
+---
+
 # 个人技能
 
 - **安全隐私**：研究区块链、零知识证明、隐私计算，掌握安全多方计算、属性加密、同态加密，了解代码漏洞检测
@@ -128,6 +138,8 @@
 - **技能证书**：英语六级CET-6（511分）、英语四级CET-4（542分）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
 
 
+
+---
 
 
 # 荣誉奖项
@@ -145,6 +157,8 @@
 - 2017.12 安徽大学社政院书法大赛（三等奖）
 - 2017.11 安徽大学机器人大赛（三等奖）
 
+
+---
 
 
 （更新时间：2025.11）
