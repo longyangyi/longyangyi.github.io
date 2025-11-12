@@ -10,7 +10,7 @@
 
 # 教育经历
 
-- **浙江大学**（985双一流），计算机科学与技术学院，网络与信息安全，**博士生**，2023.09至今
+- **浙江大学**（985双一流），计算机科学与技术学院/区块链与数据安全全国重点实验室，网络与信息安全，**博士生**，2023.09至今
 
   研究方向：区块链安全、隐私计算
   
@@ -19,57 +19,30 @@
 - **安徽大学**（211双一流），计算机科学与技术学院，信息安全，**本科**，2017.09-2021.06
 
 
-
-# 实习经历
-
-- **工信部电子一所**，国家工业信息安全发展研究中心，新兴技术**研究员助理**，2022.09-2022.12
-
-  编写区块链项目申报指南，评估企业产品的技术现状，对区块链、隐私计算、数据库等领域开展产业发展趋势研究工作。
-
-- **蚂蚁集团研究院**，第三届“数字金融青年领军者计划”，**研究助理**，2022.08-2022.09
-
-  构建宣传性应用示范案例，基于自研隐私计算Python库，实现隐私保护的疫情期间用户理财数据分析；撰写研究报告并做学术汇报，获得结业证书。
-
-- **名校考研联盟**，《数据结构》兼职讲师，2021.04-2021.12
-
-- **科大讯飞**股份有限公司，人工智能实习生，2019.08-2019.09
-
-  处理模型训练数据集，对采集的原始文本数据集进行预处理与标注，去除标签并整理特殊字符，处理结果整理入库。
-
-
-# 个人技能
-
-- **安全隐私**：精通区块链、公钥密码，掌握零知识证明、同态加密、安全多方计算、属性加密，了解异常检测
-
-- **编程开发**：掌握Java、C、Python，熟练使用Spring、Spring MVC、MyBatis、Spring Boot，熟悉C++
-
-- **技能证书**：英语六级CET-6（511分）、计算机三级（信息安全）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
-
-
 # 科研成果
 
 ## 论文
 
-1. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Regulatable and Privacy-Preserving Blockchain via Anomaly Detection on Private Transactions[J]. IEEE Transactions on Information Forensics and Security, 2025.（**CCF A，SCI一区，一作**，隐私交易监管）
+1. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Regulatable and Privacy-Preserving Blockchain via Anomaly Detection on Private Transactions[J]. IEEE Transactions on Information Forensics and Security, 2025.（**CCF A，SCI Q1 Top，一作**，隐私交易监管）
 
-2. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI一区，一作**，车联网隐私保护）
+2. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI Q1 Top，一作**，车联网隐私保护）
 
 3. **Yi L**, Liu J, Wan Z. Blockchain-Based Secure and Composable Model for Semi-Honest Privacy-Preserving Computation[C]. 2025 IEEE International Conference on Cyber Resilience and Endogenous Safety & Security (CRESS). IEEE, 2025. （**EI，一作**，区块链赋能隐私计算）
 
-4. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**SCI，CCF C，一作**，车联网数字资产）
+4. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**CCF C，学生一作**，车联网数字资产）
 
-5. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**EI，CCF C**，跨链协议设计）
+5. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**CCF C**，跨链协议设计）
 
 6. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C]. 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**，车联网身份管理）
 
-7. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]. 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1060-1069.（**EI，CCF C**，模型鲁棒性分析）
+7. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]. 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1060-1069.（**CCF C**，模型鲁棒性分析）
 
 8. 张铮,张星娜,吕卓,**易龙杨**等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（**中文核心**，智能合约安全）
 
 9. **易龙杨**.基于区块链跨链的车联网隐私保护方法研究[D].北京交通大学,2023.（**硕士学位**论文）
 
 
-## 专利
+## 专利/软著
 
 1. 刘健,**易龙杨**,万志国,任奎. 一种隐私保护区块链中的异常交易监管方法和装置[P]. 浙江省：CN202311841973.3,2024-06-25.（**一作**）
 
@@ -89,77 +62,81 @@
 
 
 
-## 其他
+## 编撰出版
+1. 参与编写学术专著：
+- 王伟，李浥东，刘吉强. [隐私保护计算](https://weread.qq.com/web/bookDetail/cc732400813ab826ag019a27)[M]. 北京：人民邮电出版社，2023.
+  撰写零知识证明、区块链等内容共20余页
+- 人工智能数据安全任奎、秦湛、王志波. [人工智能数据安全]. 背景：清华大学出版社，2025.
+  撰写区块链、联邦学习隐私保护等内容
 
-- 参与编写**学术专著**：王伟，李浥东，刘吉强. [隐私保护计算](https://weread.qq.com/web/bookDetail/cc732400813ab826ag019a27)[M]. 北京：人民邮电出版社，2023.
-
-  撰写零知识证明、区块链等内容共20余页。
-  
-- 参与制定**国家标准**：《智慧城市 突发公共卫生事件应急管理平台通用要求》
-- 参与编写**白皮书**：信通院《可信工业数据空间系统架构1.0》、浙大网安《隐私保护大模型推理技术》
-- 参与申报并结项国家重点研发、国家自然科学基金项目。
-
-
-
-# 研究工作
-
-1. 可信隐私保护**跨链交易**平台，独立完成，2022.05-2022.08
-- 研究内容：为跨链交易生成可信的零知识证明，中继链监管者无需查看隐私数据即可验证身份信息与交易合规性。
-- 个人职责：设计跨链交易流程，完善可信与隐私保护需求，编码实现跨链平台。
-- 应用技术：零知识证明、Fabric区块链。
-
-2. 定制化车险**跨链服务**平台，独立完成，（国家重点研发计划课题子任务），2021.11-2022.06
-- 研究内容：设计隐私保护的定制化车险跨链评估方案，保护车辆位置防追踪，并支持保险商评估驾驶风险。
-- 个人职责：设计并实现隐私保护的同态数据聚合算法，实现跨链平台应用。
-- 应用技术：同态数据聚合、WeCross跨链平台、Java。
-
-3. HDFS**异常日志检测**模型，2021.11-2022.02 
-- 研究内容：构建深度学习模型以学习HDFS无异常日志序列的特征，输入子序列预测下一事件候选值，对比实际值判断是否异常。
-- 个人职责：解析HDFS日志，制作无异常训练集、异常测试集，训练LSTM模型。
-- 应用技术：长序列学习、HDFS、PyTorch。
-
-4. 以太坊智能合约**漏洞检测**平台，（国家自然科学基金重点支持项目），2021.07-2021.10
-- 研究内容：构建深度学习模型以学习合约操作码序列的特征，根据漏洞类型进行分类，使用分类器去检测智能合约漏洞。
-- 个人职责：采集存在漏洞的智能合约源码，编译解析为操作码序列，训练LSTM模型。
-- 应用技术：长序列学习、以太坊、Keras。
+2. 参与编写白皮书：
+- 信通院《可信工业数据空间系统架构1.0》2022
+- 浙大网安&蚂蚁《隐私保护大模型推理技术》2023
+- 蚂蚁&浙大《密态计算白皮书》2025
 
 
 
 
 # 项目经历
 
-1. 灵活可扩展的**联邦学习系统**，（中国铁道科学研究院合作项目，已落地），2022.05-2023.06 
-- 项目简介：该联邦学习系统提供多种模型与数据集，供用户定制分布式机器学习任务，支持多节点灵活部署。
-- 个人职责：负责系统后端，实现模型参数聚合与分发，处理训练过程发送给前端实时展示。
-- 后端：Spring Boot、MyBatis、MySQL。
+1. 区块链的安全可控及攻击检测理论与方法研究，国家自然科学基金重点项目，核心成员，2022-2025
+- 内容1密态交易监管：基于零知识证明和同态加密，在保护用户交易数据隐私的前提下，识别密态交易中的恶意交易，准确率98%
+- 内容2代码漏洞检测：微调大语言模型以学习智能合约源代码语义，将语义知识蒸馏到字节码图神经网络分类器，性能超越SOTA
+- 个人职责：参与撰写项目书、结项验收报告，一作发表CCF A（论文1），另外一作论文在投稿
 
-2. 《Web IM》字节跳动&北交课程**前端项目**，负责人，2021.10-2021.12
-- 项目简介：网页端即时通讯工具，包括用户注册登录、增删好友、单聊群聊、朋友圈博客等功能，可发送图片、文字消息。
-- 个人职责：参与设计系统、编写全部代码。
-- 前端：Html、Css、JavaScript、WebSocket、jQuery。
-- 后端：Spring、Spring MVC、MyBatis。
+2. 基于区块链的隐私计算关键技术，国家重点研发计划，核心成员，2024-2026
+- 研究内容：提出能同时验证AI计算过程、AI模型来源、用户输入来源的零知识证明方案，优化证明算法并将计算效率提高30%
+- 个人职责：主导撰写项目书的技术章节、制作答辩PPT，一作发表EI（论文3）
 
-3. 《任务清单》**微信小程序**，独立完成，访问量三千余人，2021.06维护至今
-- 项目简介：维护用户任务列表，包括添加任务、标记完成状态、纪念日、实时天气等功能，附加成语补字游戏、每日一句。
-- 个人职责：设计功能、编写全部代码。
-- 前端：微信开发者工具、Wxml、Wxss、JavaScript。
-- 后端：小程序云开发、云数据库。
+3. 支持异构多链互通的新型跨链体系研究，国家重点研发计划，参与研究，2021-2023
+- 研究内容：提出基于零知识证明的跨链交易合规验证方法，解决联盟链账本不公开导致难以验证真实性的问题，达到可证明安全
+- 个人职责：参与撰写项目书，开发区块链跨链平台，一作发表SCI Q1（论文2）
 
-4. 区块链智慧医疗**APP**，校级创新项目，负责人，2019.05-2020.05
-- 项目简介：用户操作安卓APP，利用蓝牙控制单片机与可穿戴设备，测量体征数据并展示折线图，体征数据上传至云端区块链诊疗平台。
-- 个人职责：实现Java服务器，处理用户登录、数据上传下载、数据库操作、区块链交互等模块；实现安卓APP，调用蓝牙模块，预处理体征数据并展示折线图。
-- 前端：安卓APP、XML布局。
-- 后端：Java Socket、JDBC、Fabric区块链。
+4. 可信数字身份服务平台项目·网络身份证，公安部合作项目，核心成员，2024-2025
+- 项目介绍：开发数字身份存证溯源的区块链系统，为身份授权记录生成司法凭证
+- 个人职责：撰写项目书，主导开发区块链系统
+
+5. 灵活可扩展的联邦学习系统，铁道科学研究院合作项目，参与开发，2022-2023 
+- 项目介绍：提供多种模型与数据集，供用户定制分布式多方机器学习任务
+- 个人职责：主导开发后端，实现模型参数聚合与分发
+
+
+
+# 实习经历
+
+- **工信部电子一所**，国家工业信息安全发展研究中心，新兴技术**研究员助理**，2022.09-2022.12
+
+  独立编撰工信部项目申报指南。定期撰写区块链、隐私计算、数据库等新兴技术领域的研究报告，分析国内外产业发展趋势
+
+- **蚂蚁集团研究院**，第三届“数字金融青年领军者计划”，**研究助理**，2022.08-2022.09
+
+  基于自研“隐语”Python框架，独立开发用户理财数据分析的隐私保护案例，部署为新手入门demo。撰写研究报告并做学术汇报
+
+- **名校考研联盟**，《数据结构》兼职讲师，2021.04-2021.12
+
+- **科大讯飞**股份有限公司，人工智能实习生，2019.08-2019.09
+
+  处理模型训练数据集，对采集的原始文本数据集进行预处理与标注，去除标签并整理特殊字符，处理结果整理入库
+
+
+# 个人技能
+
+- **安全隐私**：研究区块链、零知识证明、隐私计算，掌握安全多方计算、属性加密、同态加密，了解代码漏洞检测
+
+- **编程开发**：Java（SSM、Spring Boot框架）、Python（PyTorch、Keras）、人工智能（大模型微调、图神经网络等）
+
+- **技能证书**：英语六级CET-6（511分）、英语四级CET-4（542分）、IBM区块链从业[资格证](https://www.credly.com/badges/04cc780a-883c-4e5b-a78d-ff0a9c074c2c/print)
+
 
 
 
 # 荣誉奖项
 
-- 2024.12 浙江大学**博士学业优秀奖**助金（二等奖）
-- 2023.06 北京交通大学**优秀硕士毕业论文**（4%）
-- 2022.11 北京交通大学**硕士学业奖学金**（一等奖）
+- 2024.12 浙江大学博士学业优秀奖学金（二等奖）
+- 2023.06 北京交通大学优秀硕士毕业论文（4%）
+- 2022.11 北京交通大学硕士学业奖学金（一等奖）
 - 2021.11 北京交通大学硕士学业奖学金（二等奖）
-- 2020.12 安徽大学**学术科技奖**（三等奖）
+- 2020.12 安徽大学学术科技奖（三等奖）
 - 2019.10 安徽大学暑期支教社会实践积极分子
 - 2018.10 安徽省网络与分布式系统竞赛（优秀奖）
 - 2018.10 第三届全国书法大赛（二等奖）
@@ -168,22 +145,6 @@
 - 2017.12 安徽大学社政院书法大赛（三等奖）
 - 2017.11 安徽大学机器人大赛（三等奖）
 
-# 校内经历
 
-- 阜南县**暑期支教**，职责：书法老师，2019.07
-
-  参加安徽省阜南县王化中心学校暑期支教，负责四十余人书法班级教学。
-
-- 安徽大学**书画协会**，职责：书法会长，2018.06-2019.06
-
-  毛笔书写春联、扇面等作品用于赠送在校师生，书写校内大会宣传标语，走访书画名家进行文化交流。
-
-- 安徽大学唐仲英**爱心社**，职责：文秘处部长，2017.11-2020.04
-
-  主持社团文秘工作，负责与国际基金会交互新闻稿件；参加[儿童医院](https://mp.weixin.qq.com/s/YDQYDllXB0Ym2EurpSugbw)、[敬老院](https://mp.weixin.qq.com/s/2Qg7dWrls6_LtkTHRALhZQ)等志愿活动；负责举办大型[社团活动](https://mp.weixin.qq.com/s/uYTVEgMfEKEB2qfmNVYPPQ)获百余人参与。
-
-- 安徽大学**机器人足球**实验室，职责：竞走机器人团队成员，2017.9-2017.12
-
-  编写Arduino单片机的C语言代码，负责实现机器人行走与翻身的模块。
 
 （更新时间：2025.11）
