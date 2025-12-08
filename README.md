@@ -29,21 +29,23 @@
 
 1. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Regulatable and Privacy-Preserving Blockchain via Anomaly Detection on Private Transactions[J]. IEEE Transactions on Information Forensics and Security, 2025.（**CCF A，SCI Q1 Top，一作**，隐私交易监管）
 
-2. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI Q1 Top，一作**，车联网隐私保护）
+2. **Yi L**, Liu J, Wan Z, Ren K, Chen C. Blockchain-Enhanced Verifiable Secure Inference for Regulatable Privacy-Preserving Transactions[J]. IEEE Transactions on Dependable and Secure Computing, 2025.（**CCF A，一作**，隐私交易监管）
 
-3. **Yi L**, Liu J, Wan Z. Blockchain-Based Secure and Composable Model for Semi-Honest Privacy-Preserving Computation[C]. 2025 IEEE International Conference on Cyber Resilience and Endogenous Safety & Security (CRESS). IEEE, 2025. （**EI，一作**，区块链赋能隐私计算）
+3. **Yi L**, Sun Y, Wang B, et al. CCUBI: A cross‐chain based premium competition scheme with privacy preservation for usage‐based insurance[J]. International Journal of Intelligent Systems, 2022, 37(12): 11522-11546.（**SCI Q1 Top，一作**，车联网隐私保护）
 
-4. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**CCF C，学生一作**，车联网数字资产）
+4. **Yi L**, Liu J, Wan Z. Blockchain-Based Secure and Composable Model for Semi-Honest Privacy-Preserving Computation[C]. 2025 IEEE International Conference on Cyber Resilience and Endogenous Safety & Security (CRESS). IEEE, 2025. （**EI，一作**，区块链赋能隐私计算）
 
-5. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**CCF C**，跨链协议设计）
+5. Ying Z, **Yi L**, Ma M. BEHT: blockchain-based efficient highway toll paradigm for opportunistic autonomous vehicle platoon[J]. Wireless Communications and Mobile Computing, 2020, 2020: 1-13.（**CCF C，学生一作**，车联网数字资产）
 
-6. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C]. 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**，车联网身份管理）
+6. Sun Y, **Yi L**, Duan L, et al. A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking[C]. 2022 IEEE International Conference on Services Computing (SCC). IEEE Computer Society, 2022: 152-157.（**CCF C**，跨链协议设计）
 
-7. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]. 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1060-1069.（**CCF C**，模型鲁棒性分析）
+7. Ying Z, Ma M, **Yi L**. BAVPM: practical autonomous vehicle platoon management supported by blockchain technique[C]. 2019 4th International Conference on Intelligent Transportation Engineering (ICITE). IEEE, 2019: 256-260.（**EI**，车联网身份管理）
 
-8. 张铮,张星娜,吕卓,**易龙杨**等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（**中文核心**，智能合约安全）
+8. Orsini H, Bao H, Zhou Y, Xu X, **Yi L**, et al. AdvCat: Domain-Agnostic Robustness Assessment for Cybersecurity-Critical Applications with Categorical Inputs[C]. 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022: 1060-1069.（**CCF C**，模型鲁棒性分析）
 
-9. **易龙杨**.基于区块链跨链的车联网隐私保护方法研究[D].北京交通大学,2023.（**硕士学位**论文）
+9. 张铮,张星娜,吕卓,**易龙杨**等. 基于深度学习的智能合约漏洞检测方法. 重庆邮电大学学报(自然科学版), 2022, 34(5): 914-920.（**中文核心**，智能合约安全）
+
+10. **易龙杨**.基于区块链跨链的车联网隐私保护方法研究[D].北京交通大学,2023.（**硕士学位**论文）
 
 
 ## 专利/软著
@@ -161,4 +163,4 @@
 ---
 
 
-（更新时间：2025.11）
+（更新时间：2025.12）
