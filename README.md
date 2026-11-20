@@ -1,4 +1,4 @@
-<img width="1310" height="105" alt="image" src="https://github.com/user-attachments/assets/1a59a6ba-bb19-4dcb-8823-3d3b27bafe71" /><img width="1310" height="105" alt="image" src="https://github.com/user-attachments/assets/b0f2bab2-baf1-4804-83b3-2c5dc9c2509c" /># [易龙杨 Longyang Yi](https://longyangyi.github.io/)
+# [易龙杨 Longyang Yi](https://longyangyi.github.io/)
 
 ---
 
